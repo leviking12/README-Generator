@@ -6,13 +6,8 @@ A simple command-line application to generate professional README.md files for y
 ## Table of Contents  
 - [Description](#description)  
 - [Installation](#installation)  
-- [Usage](#usage)  
-- [Features](#features)  
 - [Demo](#demo)  
-- [Contributing](#contributing)  
-- [License](#license)  
-- [Questions](#questions)  
-
+ 
 ---
 
 ## Description  
@@ -31,6 +26,8 @@ cd README-generator
 
 # Install dependencies
 npm install  
+
+---
 
 ## Demo
 ![Demo Video](./readmedemo%20-%20Made%20with%20Clipchamp.mp4)
